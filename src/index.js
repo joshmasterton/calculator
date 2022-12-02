@@ -1,7 +1,7 @@
 import "./index.css";
 
 const calculator = (() => {
-
+    
 })();
 
 const displayController = (() => {
